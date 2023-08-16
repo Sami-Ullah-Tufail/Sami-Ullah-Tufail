@@ -13,7 +13,7 @@
 # 💫About Me :
 🔭 I’m currently working on my github page : Portfolio_Website
   
-🌱 I’m currently learning : ML
+🌱 I’m currently learning : Full Stack 
 
   👯 I’m looking to collaborate on my webpage
 
@@ -22,7 +22,7 @@
   💬 Ask me about for any help
 
   📫 How to reach me:  
-  Mail me at "web.codewhite@gmail.com" or 
+  Mail me at "Sami.u.tufail@gmail.com" or 
   scroll to bottom of the page of "this page" and find CONTACT ME
 
 ⚡ Fun fact: 7 out of 10 consumers find a company via the blog
