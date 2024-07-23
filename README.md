@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sami Ullah Tufail</h1>
-<h3 align="center">A passionate frontend developer from Pakisan</h3>
+<h3 align="center">A passionate Full-Stack developer from Pakistan With experience in MERN, MEAN, NestJs, Tailwind, Dockers, Kubernetes,& AWS </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sami-ullah-tufail&label=Profile%20views&color=0e75b6&style=flat" alt="sami-ullah-tufail" /> </p>
 
